@@ -1,0 +1,24 @@
+{
+  "name": "NEMDB Bootstrap",
+  "version": "1.0.0",
+  "description": "Squelette d'application pour Node-webkit + ExpressJS + Mustache + NeDB",
+  "dependencies": {
+    "express": "^4.13.1",
+    "mustache": "^2.1.2",
+    "mustache-express": "^1.2.1",
+    "nedb": "^1.1.2",
+    "node-webkit-window-manager": "0.0.3"
+  },
+  "main": "server/loading.html",
+  "window": {
+    "title": "NEMDB Bootstrap",
+    "icon": "",
+    "toolbar": false,
+    "frame": false,
+    "resizable": false,
+    "width": 400,
+    "height": 300
+  },
+  "author": "BaBeuloula <contact@babeuloula.fr>",
+  "license": "Beerware"
+}

@@ -1,0 +1,4 @@
+{"planet":"Earth","system":"solaris system","inhabited":true,"humans":{"genders":2,"eyes":true},"_id":"1"}
+{"planet":"Omicron Persei 8","system":"Futurama","inhabited":true,"humans":{"genders":7},"_id":"2"}
+{"planet":"Mars","system":"solar system","inhabited":false,"satellites":["Phobos","Deimos"],"_id":"3"}
+{"planet":"Pluton","inhabited":false,"_id":"4","system":"solar system"}
