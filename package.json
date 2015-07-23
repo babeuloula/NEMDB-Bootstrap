@@ -1,5 +1,5 @@
 {
-  "name": "NEMDB Bootstrap",
+  "name": "NodeMVC",
   "version": "1.0.0",
   "description": "Squelette d'application pour Node-webkit + ExpressJS + Mustache + NeDB",
   "dependencies": {
@@ -11,7 +11,7 @@
   },
   "main": "server/loading.html",
   "window": {
-    "title": "NEMDB Bootstrap",
+    "title": "NodeMVC",
     "icon": "",
     "toolbar": false,
     "frame": false,
@@ -20,5 +20,13 @@
     "height": 300
   },
   "author": "BaBeuloula <contact@babeuloula.fr>",
+  "bugs": {
+    "url": "https://github.com/babeuloula/NodeMVC/issues"
+  },
+  "homepage": "https://github.com/babeuloula/NodeMVC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babeuloula/NodeMVC.git"
+  },
   "license": "Beerware"
 }

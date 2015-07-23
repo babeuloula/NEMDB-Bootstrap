@@ -1,4 +1,7 @@
 /**
+ * Dépôt git
+ * @url https://github.com/babeuloula/NodeMVC
+ * 
  * Routes de hello (/hello)
  * @author BaBeuloula <contact@babeuloula.fr>
  */

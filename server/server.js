@@ -1,4 +1,7 @@
 /**
+ * Dépôt git
+ * @url https://github.com/babeuloula/NodeMVC
+ * 
  * Coeur du système, Le serveur web qui est appelé lors du lancement de l'application
  * @author BaBeuloula <contact@babeuloula.fr>
  */

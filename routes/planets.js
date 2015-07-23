@@ -1,4 +1,7 @@
 /**
+ * Dépôt git
+ * @url https://github.com/babeuloula/NodeMVC
+ * 
  * Routes de planets (/planets)
  * @author BaBeuloula <contact@babeuloula.fr>
  */

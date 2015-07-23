@@ -1,4 +1,7 @@
 /**
+ * Dépôt git
+ * @url https://github.com/babeuloula/NodeMVC
+ * 
  * Module permettant une gestion plus facile des bases de données NeDB
  * @author BaBeuloula <contact@babeuloula.fr>
  *

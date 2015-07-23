@@ -1,5 +1,5 @@
-# NEMDB Bootstrap (Node-webkit ExpressJS Mustache NeDB) v1.0.0
-**NEMDB Bootstrap** est un squelette d'application pour **[Node-Webkit](http://nwjs.io/)**.<br>
+# NodeMVC v1.0.0
+**NodeMVC** est un squelette d'application pour **[Node-Webkit](http://nwjs.io/)**.<br>
 Il utilise le framework web **[ExpressJS](http://expressjs.com/)** ainsi le moteur de template **[Mustache](https://mustache.github.io/)**.<br>
 Pour ce qui est de la gestion des base de données, il utilise **[NeDB](https://github.com/louischatriot/nedb)** mais simplifiée grâce au module **Models**.<br>
 <br>
